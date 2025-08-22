@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\webapimongodb\\webapimongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|solutionrelative:webapimongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\webapimongodb\\webapimongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|solutionrelative:webapimongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\webapimongodb\\webapimongodb\\model\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|solutionrelative:webapimongodb\\model\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\webapimongodb\\webapimongodb\\mapper\\licencaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|solutionrelative:webapimongodb\\mapper\\licencaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\webapimongodb\\webapimongodb\\repository\\licencarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|solutionrelative:webapimongodb\\repository\\licencarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\webapimongodb\\webapimongodb\\service\\licencaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|solutionrelative:webapimongodb\\service\\licencaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\webapimongodb\\webapimongodb\\repository\\ilicencarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|solutionrelative:webapimongodb\\repository\\ilicencarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|c:\\users\\ulisses\\source\\repos\\webapimongodb\\webapimongodb\\controllers\\licencacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F773B0-3834-47CF-8247-3FEE913C72B0}|webapiMongoDB\\LicencaMongoDB.csproj|solutionrelative:webapimongodb\\controllers\\licencacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILicencaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\Repository\\ILicencaRepository.cs",
+              "RelativeDocumentMoniker": "webapiMongoDB\\Repository\\ILicencaRepository.cs",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\Repository\\ILicencaRepository.cs",
+              "RelativeToolTip": "webapiMongoDB\\Repository\\ILicencaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:26:03.975Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\Model\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "webapiMongoDB\\Model\\MongoDbSettings.cs",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\Model\\MongoDbSettings.cs",
+              "RelativeToolTip": "webapiMongoDB\\Model\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T02:32:05.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\Program.cs",
+              "RelativeDocumentMoniker": "webapiMongoDB\\Program.cs",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\Program.cs",
+              "RelativeToolTip": "webapiMongoDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T02:26:42.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\appsettings.json",
+              "RelativeDocumentMoniker": "webapiMongoDB\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\appsettings.json",
+              "RelativeToolTip": "webapiMongoDB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T01:24:57.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LicencaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\Repository\\LicencaRepository.cs",
+              "RelativeDocumentMoniker": "webapiMongoDB\\Repository\\LicencaRepository.cs",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\Repository\\LicencaRepository.cs",
+              "RelativeToolTip": "webapiMongoDB\\Repository\\LicencaRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAawA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T01:22:15.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LicencaProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\Mapper\\LicencaProfile.cs",
+              "RelativeDocumentMoniker": "webapiMongoDB\\Mapper\\LicencaProfile.cs",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\Mapper\\LicencaProfile.cs",
+              "RelativeToolTip": "webapiMongoDB\\Mapper\\LicencaProfile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:35:35.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LicencaController.cs",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\Controllers\\LicencaController.cs",
+              "RelativeDocumentMoniker": "webapiMongoDB\\Controllers\\LicencaController.cs",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\Controllers\\LicencaController.cs",
+              "RelativeToolTip": "webapiMongoDB\\Controllers\\LicencaController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAlwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:33:10.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LicencaService.cs",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\Service\\LicencaService.cs",
+              "RelativeDocumentMoniker": "webapiMongoDB\\Service\\LicencaService.cs",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\webapiMongoDB\\webapiMongoDB\\Service\\LicencaService.cs",
+              "RelativeToolTip": "webapiMongoDB\\Service\\LicencaService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAlwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:25:01.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
